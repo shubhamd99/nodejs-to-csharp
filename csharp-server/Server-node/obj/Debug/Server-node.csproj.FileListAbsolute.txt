@@ -1,0 +1,7 @@
+C:\Users\rigbot\source\repos\Server-node\Server-node\bin\Debug\Server-node.exe.config
+C:\Users\rigbot\source\repos\Server-node\Server-node\bin\Debug\Server-node.exe
+C:\Users\rigbot\source\repos\Server-node\Server-node\bin\Debug\Server-node.pdb
+C:\Users\rigbot\source\repos\Server-node\Server-node\obj\Debug\Server-node.csprojAssemblyReference.cache
+C:\Users\rigbot\source\repos\Server-node\Server-node\obj\Debug\Server-node.csproj.CoreCompileInputs.cache
+C:\Users\rigbot\source\repos\Server-node\Server-node\obj\Debug\Server-node.exe
+C:\Users\rigbot\source\repos\Server-node\Server-node\obj\Debug\Server-node.pdb
